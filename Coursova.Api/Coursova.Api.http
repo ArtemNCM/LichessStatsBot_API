@@ -1,6 +1,0 @@
-@Coursova.Api_HostAddress = http://localhost:5148
-
-GET {{Coursova.Api_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
